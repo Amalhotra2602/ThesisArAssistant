@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936842818370",
+    "project_id": "unity-database-45352",
+    "storage_bucket": "unity-database-45352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936842818370:android:222cdff747061954ff0edb",
+        "android_client_info": {
+          "package_name": "com.Pleasegod.Myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936842818370-f8nv9g94g8903mqv3ekifruu7hs219j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQvTiG9BWu-zdXDWrXkvJs9VUNyQ4tOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936842818370-f8nv9g94g8903mqv3ekifruu7hs219j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
